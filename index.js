@@ -1,10 +1,10 @@
-//base by Jean Parker 
+//base by  ⫷ஜ𝙆𝙄𝙇𝙇𝙐𝘼♛𝑶𝑹𝑰𝑮𝑰𝑵𝑬𝑳⫸
 //re-upload? recode? copy code? give credit ya :)
-//YouTube: @Jean-parker-tech
-//Instagram: its_jeanparker
-//Telegram: t.me/Jeanparker100
-//GitHub: @Jeanparker100
-//WhatsApp: +22898133388
+//YouTube: @kiilua-tech
+//Instagram: ༒⫷ஜKILLUA♛𝑶𝑹𝑰𝑮𝑰𝑵𝑬𝑳⫸༒
+//Telegram: t.me/⫷ஜ𝙆𝙄𝙇𝙇𝙐𝘼♛𝑶𝑹𝑰𝑮𝑰𝑵𝑬𝑳⫸
+//GitHub: @rogue coder
+//WhatsApp: +24174160140
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@Jean-parker-tech
 
 
